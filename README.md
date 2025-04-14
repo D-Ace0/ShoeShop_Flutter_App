@@ -1,16 +1,20 @@
-# shoeshop
+# 🛍️ ShoeShop Flutter App
 
-A new Flutter project.
+A modern and minimal e-commerce shoe shop app built using Flutter.  
+This is a frontend UI-only demo showcasing Flutter design capabilities.
 
-## Getting Started
+## 🔧 Features
+- 🧭 Multi-screen navigation
+- 💅 Beautiful product card UI
+- 🧩 Modular widget structure
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
+<img src="screenshots/home.png" width="300"/> <img src="screenshots/details.png" width="300"/>
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/D-Ace0/ShoeShop_Flutter_App.git
+cd ShoeShop_Flutter_App
+flutter pub get
+flutter run
