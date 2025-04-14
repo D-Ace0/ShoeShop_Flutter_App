@@ -4,9 +4,11 @@ A modern and minimal e-commerce shoe shop app built using Flutter.
 This is a frontend UI-only demo showcasing Flutter design capabilities.
 
 ## 🔧 Features
-- 🧭 Multi-screen navigation
-- 💅 Beautiful product card UI
-- 🧩 Modular widget structure
+- 🏠 Home screen with product listings
+- 👟 Product details screen
+- 🧠 State management using Provider
+- 🎨 Clean, reusable widget structure
+- 💡 Modern UI design
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/0d6b6819-8789-45c4-b414-955d6624cdc6)
